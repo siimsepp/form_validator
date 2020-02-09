@@ -1,30 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8efd7c09-2f9a-437d-bd00-a04f034016d3" name="Default Changelist" comment="" />
+    <list default="true" id="8efd7c09-2f9a-437d-bd00-a04f034016d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/siim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1XX8vSfMym2CSmDP7MTfYEKdSmS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,14 +61,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581181308603</updated>
-      <workItem from="1581181312555" duration="417000" />
+      <workItem from="1581181312555" duration="10634000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="284" y="275" width="1002" height="840" key="#JSLint" timestamp="1581191954815">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="284" y="275" width="1002" height="840" key="#JSLint/0.0.2560.1390@0.0.2560.1390" timestamp="1581191954815" />
+    <state x="99" y="100" width="2362" height="1190" key="DiffContextDialog" timestamp="1581228204815">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="99" y="100" width="2362" height="1190" key="DiffContextDialog/0.0.2560.1390@0.0.2560.1390" timestamp="1581228204815" />
+    <state x="1010" y="396" width="532" height="599" key="FileChooserDialogImpl" timestamp="1581228203891">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="1010" y="396" width="532" height="599" key="FileChooserDialogImpl/0.0.2560.1390@0.0.2560.1390" timestamp="1581228203891" />
     <state width="2500" height="372" key="GridCell.Tab.0.bottom" timestamp="1581181630676">
       <screen x="0" y="0" width="2560" height="1390" />
     </state>
@@ -60,5 +100,9 @@
       <screen x="0" y="0" width="2560" height="1390" />
     </state>
     <state width="2500" height="372" key="GridCell.Tab.0.right/0.0.2560.1390@0.0.2560.1390" timestamp="1581181630676" />
+    <state x="5" y="242" width="1269" height="906" key="SettingsEditor" timestamp="1581228794527">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="5" y="242" width="1269" height="906" key="SettingsEditor/0.0.2560.1390@0.0.2560.1390" timestamp="1581228794527" />
   </component>
 </project>
